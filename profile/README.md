@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
 -->
 
-## Find Us
+## Visit Us On Other Platforms
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&labelColor=white)](https://twitter.com/kanopi_studios)
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/company/kanopistudios)
