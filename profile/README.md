@@ -13,4 +13,5 @@
 
 ## Find Us
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kanopi_studios?style=social)](https://twitter.com/kanopi_studios)
+[![Twitter Follow](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&labelColor=white)](https://twitter.com/kanopi_studios)
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/company/kanopistudios)
