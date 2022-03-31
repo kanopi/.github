@@ -1,5 +1,12 @@
 [![Kanopi Logo](https://kanopi.com/wp-content/themes/custom/kanopi/img/kanopi-logo.svg)](https://kanopi.com)
 
+
+Kanopi emerged from a love of treehouses.
+
+Treehouses are amazing structures in the sky. Incredible works of craftsmanship and creativity that exist in a larger context of their surroundings. Kanopi vowed to build a web agency upon that same foundation: pairing creative solutions with sustainable and strong architecture while keeping the client’s entire ecosystem in mind.
+
+We’re always looking for great talent. Please check out our careers page. https://kanopi.com/careers/
+
 <!--
 
 **Here are some ideas to get you started:**
