@@ -1,4 +1,4 @@
-[![Kanopi Logo](https://kanopi.com/wp-content/themes/custom/kanopi/img/kanopi-logo.svg)](https://kanopi.com)
+<img src="https://kanopi.com/wp-content/themes/custom/kanopi/img/kanopi-logo.svg" width="320" alt="Kanopi Studios Logo">
 
 
 Kanopi emerged from a love of treehouses.
