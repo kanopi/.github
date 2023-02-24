@@ -1,22 +1,21 @@
-<img src="https://kanopi.com/wp-content/themes/custom/kanopi/img/kanopi-logo.svg" width="320" alt="Kanopi Studios Logo">
+# <img src="https://kanopi.com/wp-content/themes/custom/kanopi/img/kanopi-logo.svg" width="320" alt="Kanopi Studios Logo">
 
+### _Kanopi designs, builds, and supports websites for clients that want to make a positive impact._
 
-Kanopi emerged from a love of treehouses.
+## Hello. It’s nice to meet you.
 
-Treehouses are amazing structures in the sky. Incredible works of craftsmanship and creativity that exist in a larger context of their surroundings. Kanopi vowed to build a web agency upon that same foundation: pairing creative solutions with sustainable and strong architecture while keeping the client’s entire ecosystem in mind.
+Thanks for checking out Kanopi. You have great taste.
 
-We’re always looking for great talent. Please [check out our careers page](https://kanopi.com/careers?ref=kanopi_github_org). 
+Kanopi designs, builds, and supports websites for clients that want to make a positive impact. We make the internet better one website at a time. 
 
-<!--
+## About Kanopi
+- :woman: 75+ remote staff across Canada and the United States.
+- 💾  We work exclusively in WordPress and Drupal.
+- 🌎  Our clients are good for people and the planet. They include Habitat for Humanity, the Global Brain Health institute, the International Rescue Committee, Stanford University, First Tee and PEN America.
+- 🌈  We’re woman led and owned. See our [other diversity stats](https://kanopi.com/about-us/.
+- 😃  Employee happiness is crucial for us as it translates directly into great client work. In December 2022, our employees reported a 98.5% happiness and satisfaction rating, and our retention rate reflects that at 93%.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+Learn more about us at [Kanopi.com](https://kanopi.com/).
 
 ## Visit Us On Other Platforms
 
