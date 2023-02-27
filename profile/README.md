@@ -1,16 +1,14 @@
-# <img src="https://kanopi.com/wp-content/themes/custom/kanopi/img/kanopi-logo.svg" width="320" alt="Kanopi Studios Logo">
-
-### _Kanopi designs, builds, and supports websites for clients that want to make a positive impact._
+![LOGO_Kanopi_300x300](https://user-images.githubusercontent.com/5177009/221605522-9190825f-54ea-4c77-be47-6071b9e64331.png)
 
 ## Hello. It’s nice to meet you.
 
 Thanks for checking out Kanopi. You have great taste.
 
-Kanopi designs, builds, and supports websites for clients that want to make a positive impact. We make the internet better one website at a time. 
+Kanopi designs, builds, and supports Drupal and WordPress websites for clients that want to make a positive impact. We make the internet better one website at a time.
 
 ## About Kanopi
 - :woman: 75+ remote staff across Canada and the United States.
-- 💾  We work exclusively in WordPress and Drupal.
+- :computer:  We work exclusively in WordPress and Drupal.
 - 🌎  Our clients are good for people and the planet. They include Habitat for Humanity, the Global Brain Health institute, the International Rescue Committee, Stanford University, First Tee and PEN America.
 - 🌈  We’re woman led and owned. See our [other diversity stats](https://kanopi.com/about-us/.
 - 😃  Employee happiness is crucial for us as it translates directly into great client work. In December 2022, our employees reported a 98.5% happiness and satisfaction rating, and our retention rate reflects that at 93%.
