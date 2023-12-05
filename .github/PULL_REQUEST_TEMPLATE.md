@@ -5,7 +5,7 @@ Teamwork Ticket(s): [insert_ticket_name_here](insert_link_here)
 
 _A few sentences describing the overall goals of the pull request's commits.
 What is the current behavior of the app? What is the updated/expected behavior
-with this PR? **Include your acceptance critiera!** If your tasks were well-written, you can probably copy/paste some of this._
+with this PR?_
 
 ## Acceptance Criteria
 * A list describing how the feature should behave
