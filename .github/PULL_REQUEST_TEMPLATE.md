@@ -1,5 +1,6 @@
 ## Description
 Teamwork Ticket(s): [insert_ticket_name_here](insert_link_here)
+- [ ] Was AI used in this pull request?
 
 > As a developer, I need to start with a story.
 
